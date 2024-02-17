@@ -1,5 +1,5 @@
 # Library Project
-
+![Foto](https://i.hizliresim.com/11thexk.png)
 This project is a web application developed for the Internet Computer platform using the Motoko programming language. It serves as a template for developers to start building their own web applications on the Internet Computer.
 
 ## Purpose
